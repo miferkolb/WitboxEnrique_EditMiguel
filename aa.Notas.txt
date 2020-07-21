@@ -1,0 +1,2 @@
+Sacado de la verison Marlin_1_1_0_RC7_rumba_sigma_v4 y cambiado el configuration.h para la witbox 2
+Sacado de la versión Marlin_1_1_0_RC7_rumba_witbox_v5_pulsador de Enrique fichero de Andres
